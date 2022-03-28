@@ -7,7 +7,7 @@
 ![alt text](https://github.com/ankitjha-webdev/multi-part-form/blob/main/2022-03-29_01-16-17.png)
 
 3)
-![alt text](https://github.com/ankitjha-webdev/multi-part-form/blob/main/2022-03-29_01-13-00.png)
+![alt text](https://github.com/ankitjha-webdev/multi-part-form/blob/main/2022-03-29_01-21-39.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
